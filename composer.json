@@ -4,7 +4,7 @@
     "type": "magento2-module",
     "require": {
         "php": "~5.6|~7.0|7.1.*",
-        "magento/framework": "100 - 101"
+        "magento/framework": "100 - 102"
     },
     "require-dev": {
         "phpspec/phpspec": "^2.5",
